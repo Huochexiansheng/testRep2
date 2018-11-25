@@ -9,4 +9,9 @@ public class GitTest02 {
                 "测试2"
         );
     }
+    public static void test3(){
+        System.out.println(
+                "测试2"
+        );
+    }
 }
